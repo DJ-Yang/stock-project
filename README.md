@@ -29,7 +29,7 @@ POST: /accounts/register/
 ```json
 {
     "username": {{닉네임}},
-    "password": {{비밀번호}}"
+    "password": {{비밀번호}}
 }
 
 ```
