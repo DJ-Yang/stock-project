@@ -1,0 +1,92 @@
+[
+    {
+      "model": "portfolio.stock",
+      "pk": 1,
+      "fields": {
+        "code": "A000001",
+        "name": "Stock1",
+        "price": "1000"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 2,
+      "fields": {
+        "code": "A000002",
+        "name": "Stock2",
+        "price": "3000"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 3,
+      "fields": {
+        "code": "A000003",
+        "name": "Stock3",
+        "price": "7000"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 4,
+      "fields": {
+        "code": "A000004",
+        "name": "Stock4",
+        "price": "12000"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 5,
+      "fields": {
+        "code": "A000005",
+        "name": "Stock5",
+        "price": "200000"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 6,
+      "fields": {
+        "code": "B000001",
+        "name": "Stock6",
+        "price": "250000"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 7,
+      "fields": {
+        "code": "B000002",
+        "name": "Stock7",
+        "price": "500"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 8,
+      "fields": {
+        "code": "B000003",
+        "name": "Stock8",
+        "price": "8900"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 9,
+      "fields": {
+        "code": "B000004",
+        "name": "Stock9",
+        "price": "111000"
+      }
+    },
+    {
+      "model": "portfolio.stock",
+      "pk": 10,
+      "fields": {
+        "code": "B000005",
+        "name": "Stock10",
+        "price": "230"
+      }
+    }
+]
